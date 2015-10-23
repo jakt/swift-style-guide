@@ -1,10 +1,6 @@
-# The Official raywenderlich.com Swift Style Guide.
+# JAKT Swift Style Guide.
 
-This style guide is different from others you may see, because the focus is centered on readability for print and the web. We created this style guide to keep the code in our books, tutorials, and starter kits nice and consistent — even though we have many different authors working on the books.
-
-Our overarching goals are conciseness, readability, and simplicity.
-
-Writing Objective-C? Check out our [Objective-C Style Guide](https://github.com/raywenderlich/objective-c-style-guide) too.
+This style guide was forked from The Official raywenderlich.com Swift Style Guide repo.
 
 ## Table of Contents
 
@@ -123,7 +119,7 @@ let myClass = MyModule.UsefulClass()
 
 ## Spacing
 
-* Indent using 2 spaces rather than tabs to conserve space and help prevent line wrapping. Be sure to set this preference in Xcode as shown below:
+* Indent using tabs with an indent width of 4 Be sure to set this preference in Xcode as shown below:
 
   ![Xcode indent settings](screens/indentation.png)
 
